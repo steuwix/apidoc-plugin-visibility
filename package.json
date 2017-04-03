@@ -1,13 +1,13 @@
 {
   "name": "apidoc-plugin-visibility",
   "version": "1.0.0",
-  "description": "test plugin for multiple generation",
+  "description": "apidoc plugin for multiple generation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "test"
+    "apidoc-plugin"
   ],
   "author": "steuwix",
   "license": "ISC"
